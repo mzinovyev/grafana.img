@@ -1,0 +1,1 @@
+grafana save images of dushboard program 
