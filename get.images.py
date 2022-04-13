@@ -67,8 +67,8 @@ if __name__ == "__main__":
             print ("Cant find system $s at settings.json" % (section))
             break
         #make folder for preset 2 save images
-    ini = RawConfigParser()
-    ini.read('get.images.ini')
+    #ini = RawConfigParser()
+    #ini.read('get.images.ini')
 
     # Prepare request
     http = urllib3.PoolManager()
